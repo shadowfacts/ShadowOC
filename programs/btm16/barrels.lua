@@ -1,7 +1,7 @@
 local component = require("component")
 
-local barrels = {}
-local emitters = {}
+barrels = {}
+emitters = {}
 
 local i = 0
 local j = 0
